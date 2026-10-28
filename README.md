@@ -19,15 +19,6 @@ A fun, responsive **Rock Paper Scissors** game where you play against the comput
 
 ---
 
-## 📸 Preview
-
-<!-- Screenshot ko repo mein `images/` folder mein daalo aur path update karo -->
-<div align="center">
-  <img src="images/screenshot.png" alt="Rock Paper Scissors Gameplay" width="600"/>
-</div>
-
----
-
 ## 📖 About The Project
 
 Rock Paper Scissors is a classic hand game. You choose **Rock**, **Paper** or **Scissors**, the computer picks randomly, and the winner is decided by the rules below. Scores for both **You** and **Comp** are tracked live on the scoreboard.
