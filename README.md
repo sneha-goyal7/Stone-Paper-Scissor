@@ -11,7 +11,7 @@ A fun, responsive **Rock Paper Scissors** game where you play against the comput
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🎮 [Play the Live Demo](https://stone-paper-scissor-sneha.netlify.app)
+### 🎮 [Play the Live Demo](https://stone-paper-scissor-snehaa.netlify.app)
 
 [🐛 Report Bug](https://github.com/sneha-goyal7/Stone-Paper-Scissor/issues) · [✨ Request Feature](https://github.com/sneha-goyal7/Stone-Paper-Scissor/issues)
 
